@@ -12,9 +12,9 @@ public class SwapValueUsingThirdV {
 
        //After swapping variable
 
-        int temp = i;   //10
-        i = j;          //i=7
-        j = temp;       //j=10
+        int temp = i;   //now temp = 10;
+        i = j;          //now i=7
+        j = temp;       //now j=10
 
        //After swapping variable
 
