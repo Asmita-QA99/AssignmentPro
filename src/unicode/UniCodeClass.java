@@ -1,4 +1,4 @@
-package Unicode;
+package unicode;
 
 public class UniCodeClass {
     public static void main(String[] args) {

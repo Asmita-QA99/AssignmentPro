@@ -1,4 +1,4 @@
-package SwapPackage;
+package swappackage;
 
 public class SwapValueUsingThirdV {
     public static void main(String[] args) {
