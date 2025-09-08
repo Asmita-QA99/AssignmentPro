@@ -35,6 +35,7 @@ public class ATMJourneyClass {
         System.out.println("Thank you for using HDFC Bank ATM!!!");
 
     }
+
 }
 
 
