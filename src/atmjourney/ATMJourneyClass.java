@@ -33,8 +33,9 @@ public class ATMJourneyClass {
             System.out.println("Invalid Balance:");
            }
         System.out.println("Thank you for using HDFC Bank ATM!!!");
-
+        
     }
+
 }
 
 
